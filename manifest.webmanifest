@@ -1,0 +1,20 @@
+{
+  "name": "Aryan Game — Phases 1–4",
+  "short_name": "Aryan Game",
+  "description": "A mobile landscape battle and hostel-life game prototype",
+  "id": "/",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "landscape",
+  "theme_color": "#111427",
+  "background_color": "#0a0c19",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
